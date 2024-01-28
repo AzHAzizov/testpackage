@@ -1,0 +1,17 @@
+{
+    "name": "root/www",
+    "description": "none desck",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Root\\Www\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
