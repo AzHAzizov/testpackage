@@ -12,6 +12,6 @@
             "name": "Me"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "RC",
     "require": {}
 }
