@@ -1,10 +1,10 @@
 {
-    "name": "root/www",
+    "name": "azhazizov/testpackage",
     "description": "none desck",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Root\\Www\\": "src/"
+            "azhazizov\\testpackage\\Www\\": "src/"
         }
     },
     "authors": [
